@@ -8,7 +8,7 @@ import argparse
 import json
 import logging
 import os
-import sys
+
 from datetime import datetime
 
 from csv_loader import parse_files
